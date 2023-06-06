@@ -1,0 +1,9 @@
+.formu {
+    justify-content: center;
+}
+
+.compras {
+    display: grid;
+    justify-items: center;
+
+}
